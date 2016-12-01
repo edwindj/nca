@@ -1,0 +1,10 @@
+Package: nca
+Type: Package
+Title: Neighborhood Component Analysis
+Version: 0.1.0
+Author: Edwin de Jonge
+Maintainer: Edwin de Jonge <edwindjonge@gmail.com>
+Description: Neighborhood Component Analysis.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
